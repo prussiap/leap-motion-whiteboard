@@ -25,7 +25,7 @@ public class MainFramework
 			}
 
 			panel.draw(coords, draw);
-			thread.sleep(1000);
+			thread.sleep(100);
 		}
 	}
 
